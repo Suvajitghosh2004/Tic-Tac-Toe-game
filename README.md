@@ -5,7 +5,7 @@ A simple, responsive **Tic Tac Toe** game built using **HTML**, **Tailwind CSS**
 
 ## 🚀 Live Demo
 
-[👉 Play the Game : https://tinyurl.com/2yvjyrow ]((https://tinyurl.com/2yvjyrow)) <!-- Replace with your live link if hosted -->
+[👉 Play the Game : https://tinyurl.com/2yvjyrow ](https://tinyurl.com/2yvjyrow) <!-- Replace with your live link if hosted -->
 
 ---
 
