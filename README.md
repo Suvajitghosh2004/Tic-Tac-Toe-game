@@ -1,2 +1,29 @@
-# Tic-Tac-Toe-game
-A simple, responsive Tic Tac Toe game built with HTML, styled using Tailwind CSS, and made interactive with JavaScript. The game features a 3x3 grid, alternating turns between Player X and Player O, a victory detection system, and a restart button. This project is ideal for beginners learning DOM manipulation and modern CSS utility frameworks.
+# 🎮 Tic Tac Toe Game
+
+A simple, responsive **Tic Tac Toe** game built using **HTML**, **Tailwind CSS**, and **JavaScript**. This project demonstrates basic DOM manipulation, event handling, and game logic implementation in JavaScript.
+
+
+## 🚀 Live Demo
+
+[👉 Play the Game](https://your-live-demo-link.com) <!-- Replace with your live link if hosted -->
+
+---
+
+## 🛠️ Technologies Used
+
+- 🌐 HTML5
+- 🎨 Tailwind CSS (via CDN)
+- ⚙️ Vanilla JavaScript
+
+---
+
+## 🎯 Features
+
+- ✅ 3x3 Grid Tic Tac Toe board
+- ✅ Two-player mode (X and O)
+- ✅ Turn indication and winner detection
+- ✅ Draw detection
+- ✅ Restart button to play again
+- ✅ Responsive layout and sleek UI with Tailwind CSS
+
+---
